@@ -31,7 +31,7 @@ dependencies:
 
   stream_transform: 2.1.0
   fluttertoast: 8.2.2
-  get: 4.6.5
+  get: 4.6.6
   device_info_plus: 9.0.3
 
 dev_dependencies:

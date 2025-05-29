@@ -1,6 +1,6 @@
 name: flutter_serial_port_lib
 description: Flutter serial port plugin. build C library with Android Java. Only for Android platform.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/doubletcjs/flutter_serial_port
 
 environment:
